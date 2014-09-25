@@ -1,4 +1,3 @@
-var init = function(APP){
+( function(w, d, APP){
 	
-}(APP);
-window.addEventListener("load", init, false);
+} (window, document, APP) );
